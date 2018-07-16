@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Helena Qi
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Helena Qi
+  url:        www.helenaqi.com
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
