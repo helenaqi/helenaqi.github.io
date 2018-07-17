@@ -10,8 +10,6 @@ author:
   url:        www.helenaqi.com
 
 # Gems
-gems:
-  - jekyll-paginate
 
 #Others
 markdown: kramdown
